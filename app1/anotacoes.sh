@@ -1,3 +1,5 @@
+# https://docs.djangoproject.com/en/4.1/ref/models/fields/
+
 
 
 #       __criar o ambiente virtual__
